@@ -1,0 +1,8 @@
+{
+  "name": "Plant & Nursery Marketplace",
+  "description": "A comprehensive Amazon-like marketplace for plants and local certified nurseries, featuring an AI Plant Doctor, a customized AI Matchmaker Finder, customer reviews, and a seller nursery dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
